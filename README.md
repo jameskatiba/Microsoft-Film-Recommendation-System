@@ -1,7 +1,7 @@
 ### MICROSOFT FILM ANALYSIS
 
 
-![alt text](poster.jpeg)
+![alt text](Poster.jpg)
 
 ### Project Overview
 This analysis is for Microsoft and they want me to use this analysis to generate insights for the business stakeholder
@@ -21,6 +21,8 @@ For the analysis I will be using movie datasets from:
 - [IMDB](https://www.imdb.com/)
 - [TheMovieDB](https://www.themoviedb.org/)
 - [The numbers](https://www.the-numbers.com/)
+- [Rotten Tomatoes](https://www.rottentomatoes.com/)
+
 
 
 Because it was collected from various locations, the different files have different formats. 
@@ -35,19 +37,19 @@ IMBD data as shown below
 3. **Visualizations results**
 
 These shows the most watched movie genres
-![alt text](image.png)
+![alt text](image-6.png)
 
 
 These shows movie genre according to the most votes from movie fans
-![alt text](image-2.png)
+![alt text](image-7.png)
 
 These shows the most profitable movie according to my analysis on the domestic gross. That will help to know which is the most profitable movie genre
-![alt text](image-3.png)
+![alt text](image-8.png)
 
 This shows the most profitable genre according to my analysis on the worldwide gross
-![alt text](image-5.png)
+![alt text](image-9.png)
 
-### Conlusion
+### Conclusion
 #### Recommendations
 1.According to the most watched genre I will recommend Microsoft to focus on Drama, Comedy,Drama|Comedy then Drama,Myestry,Suspense.Films created related to the movie genre above are likely to do well.
 
@@ -57,3 +59,14 @@ Action,Fantasy,war and Action, Adventure,Sci-FI and Adventure,Mystery, SciFi mov
 3.My analysis on domestic gross I have come to conclusion that Star Ep VII: The Force Awakens then the Black Panther movie are doing well at the box office, So I will recommend Microsoft to Focus on the Movie genres related to he above movies
 
 4.My analysis on Worldwide gross Avatar,Titanic,Avengers:Infinity War,Star Ep VII: The Force Awakens are doing well at the worldwide box office.I will recommend Microsoft to Focus on the genres related to the movies above
+
+### Future Work
+#### Further Analysis
+- conduct analysis on related datasets to find other recommenations to make microsoft more successful after they have already started producing their own films
+Examples of the next step will be:
+
+1. Companies to co-operate with
+2. The best month to produce movies
+3.Movie Directors that Microsoft can Work with
+
+
