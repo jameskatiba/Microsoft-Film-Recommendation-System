@@ -1,7 +1,7 @@
 ### MICROSOFT FILM ANALYSIS
-
-
 ![alt text](Poster.jpg)
+
+
 
 ### Project Overview
 This analysis is for Microsoft and they want me to use this analysis to generate insights for the business stakeholder
@@ -26,7 +26,8 @@ For the analysis I will be using movie datasets from:
 
 
 Because it was collected from various locations, the different files have different formats. 
-2.**Description f data**
+
+2.**Description of data**
 
 Some are compressed CSV (comma-separated values) or TSV (tab-separated values) files that can be opened using spreadsheet software
 or pd.read_csv, while the data from IMDB is located in a SQLite database.This is the ERD for the
@@ -36,21 +37,21 @@ IMBD data as shown below
 
 3. **Visualizations results**
 
-These shows the most watched movie genres
+- These shows the most watched movie genres
 ![alt text](image.png)
 
 
-These shows movie genre according to the most votes from movie fans
+- These shows movie genre according to the   most votes from movie fans
 ![alt text](image-1.png)
 
-This shows that that production budget has a high positive correlation with worldwide gross hence a high budgeted movie genre is likey to be highly profitable
+- This shows that that production budget has a high positive correlation with worldwide gross hence a high budgeted movie genre is likey to be highly profitable
 
 ![alt text](image-4.png)
 
-These shows the most profitable movie according to my analysis on the domestic gross. That will help to know which is the most profitable movie genre
+- These shows the most profitable movie according to my analysis on the domestic gross. That will help to know which is the most profitable movie genre
 ![alt text](image-2.png)
 
-This shows the most profitable genre according to my analysis on the worldwide gross
+- This shows the most profitable genre according to my analysis on the worldwide gross
 ![alt text](image-3.png)
 
 ### Conclusion
@@ -67,10 +68,10 @@ Action,Fantasy,war and Action, Adventure,Sci-FI and Adventure,Mystery, SciFi mov
 ### Future Work
 #### Further Analysis
 - conduct analysis on related datasets to find other recommenations to make microsoft more successful after they have already started producing their own films
-Examples of the next step will be:
+ Examples of the next step will be:
 
 1. Companies to co-operate with
 2. The best month to produce movies
-3.Movie Directors that Microsoft can Work with
+3. Movie Directors that Microsoft can Work with
 
 
