@@ -37,17 +37,21 @@ IMBD data as shown below
 3. **Visualizations results**
 
 These shows the most watched movie genres
-![alt text](image-6.png)
+![alt text](image.png)
 
 
 These shows movie genre according to the most votes from movie fans
-![alt text](image-7.png)
+![alt text](image-1.png)
+
+This shows that that production budget has a high positive correlation with worldwide gross hence a high budgeted movie genre is likey to be highly profitable
+
+![alt text](image-4.png)
 
 These shows the most profitable movie according to my analysis on the domestic gross. That will help to know which is the most profitable movie genre
-![alt text](image-8.png)
+![alt text](image-2.png)
 
 This shows the most profitable genre according to my analysis on the worldwide gross
-![alt text](image-9.png)
+![alt text](image-3.png)
 
 ### Conclusion
 #### Recommendations
